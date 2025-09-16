@@ -1,0 +1,8 @@
+# 忽略 node_modules 文件夹
+node_modules/
+
+# 可选：忽略日志文件
+*.log
+
+# 可选：忽略本地环境配置
+.env
